@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tommysmiths.naysayer88theme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tommysmiths.naysayer88theme.MyBundle
 
 class MyApplicationService {
 
